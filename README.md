@@ -7,7 +7,7 @@ Job Profile is developed on the basis of 3 modules HR, Candidate And Admin Apart
 the Candidate to insert their Portfolio And Apply For the Job.
 ================================================================
 <H3>ARCHETECTURE DOCUMENTATION-</H3>
-it contain 4 profile
+it contain 4 profile 
 VISITOR-Visitor are the random user that can visit about page contact pages and the job category on the website can contact through email or Phone  and can Registred on the website.
 CANDIDATE- Candidate are the registered visitor and are permitted to apply for the job profile. 
 HR- this Module Can Make CRUD operation And Manage the most Of the part of Candidate profile and the incoming Request
